@@ -1,0 +1,66 @@
+{
+  "reviews": [{
+    "reviewer": {
+      "displayName": "M Imran"
+    },
+    "starRating": "FIVE",
+    "comment": "Tour is perfect .BreakFast ,dinner ,hotels and tour managing is excellent",
+    "createTime": "2024-12-22T18:29:15.219979Z",
+    "updateTime": "2024-12-24T10:41:16.493074Z",
+    "name": "accounts/114459561747076930913/locations/12041732492526134515/reviews/ChdDSUhNMG9nS0VJQ0FnSUR2OWZYRmt3RRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Abdul Rehman"
+    },
+    "starRating": "FIVE",
+    "comment": "An incredible travel experience! Your services were truly fabulous, and every detail was handled perfectly.",
+    "createTime": "2024-12-23T08:03:19.596144Z",
+    "updateTime": "2024-12-23T08:03:19.596144Z",
+    "name": "accounts/114459561747076930913/locations/12041732492526134515/reviews/ChdDSUhNMG9nS0VJQ0FnSUR2dmM2MDZRRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Muhammad AWAIS"
+    },
+    "starRating": "FIVE",
+    "comment": "An absolutely unforgettable experience! Everything was perfectly organized from breathtaking sights to seamless travel arrangements.",
+    "createTime": "2024-12-23T07:47:42.528677Z",
+    "updateTime": "2024-12-23T07:51:26.406645Z",
+    "name": "accounts/114459561747076930913/locations/12041732492526134515/reviews/ChZDSUhNMG9nS0VJQ0FnSUR2dmNxaldREAE"
+  }, {
+    "reviewer": {
+      "displayName": "Usman Ali Khan"
+    },
+    "starRating": "FIVE",
+    "comment": "Great Company and Tour Advisors for exploring destinations confidently!\n@Usama @Umer",
+    "createTime": "2024-12-23T07:36:12.343834Z",
+    "updateTime": "2024-12-23T07:36:12.343834Z",
+    "name": "accounts/114459561747076930913/locations/12041732492526134515/reviews/ChZDSUhNMG9nS0VJQ0FnSUR2dmR6Q2RnEAE"
+  },   {
+    "reviewer": {
+      "displayName": "naeem nadeem"
+    },
+    "starRating": "FIVE",
+    "comment": "Great experience with paradise tours, just completed corporate trip with them, everything was perfect.",
+    "createTime": "2024-12-22T13:40:52.314883Z",
+    "updateTime": "2024-12-22T13:40:52.314883Z",
+    "name": "accounts/114459561747076930913/locations/12041732492526134515/reviews/ChdDSUhNMG9nS0VJQ0FnSUR2MVlEcGxnRRAB"
+  },{
+    "reviewer": {
+      "displayName": "Shah Je"
+    },
+    "starRating": "FIVE",
+    "comment": "Very professional these guys are..\nCompleted my corporate trip with them, they are specialists!!!",
+    "createTime": "2024-12-22T12:39:22.971299Z",
+    "updateTime": "2024-12-22T12:39:22.971299Z",
+    "name": "accounts/114459561747076930913/locations/12041732492526134515/reviews/ChdDSUhNMG9nS0VJQ0FnSUR2bFphOHZnRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Zia Aslam (MIAN G)"
+    },
+    "starRating": "FIVE",
+    "comment": "Kamal Tour tha yr maza he agya, love you usama \u0026 Omar bhai 🥰. Thanks Paradise Tour❤️😍 for Best Vehicles, Nice Accommodations \u0026 owesome Food Quality❤️.",
+    "createTime": "2024-12-22T12:30:34.981499Z",
+    "updateTime": "2024-12-22T12:30:34.981499Z",
+    "name": "accounts/114459561747076930913/locations/12041732492526134515/reviews/ChdDSUhNMG9nS0VJQ0FnSUR2bGNxQnl3RRAB"
+  }]
+}
